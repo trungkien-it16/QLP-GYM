@@ -1,0 +1,7 @@
+<form [formGroup]="form" (ngSubmit)="submit()">
+    <h2>Đăng nhập</h2>
+    <input formControlName="username" placeholder="Tên đăng nhập" />
+    <input type="password" formControlName="password" placeholder="Mật khẩu" />
+    <button type="submit" [disabled]="form.invalid">Đăng nhập</button>
+    <p style="color:red">{{ error }}</p>
+</form>
