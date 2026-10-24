@@ -1,0 +1,266 @@
+D:\Kiên\GymApi\bin\Debug\net10.0\appsettings.Development.json
+D:\Kiên\GymApi\bin\Debug\net10.0\appsettings.json
+D:\Kiên\GymApi\bin\Debug\net10.0\GymApi.staticwebassets.endpoints.json
+D:\Kiên\GymApi\bin\Debug\net10.0\GymApi.exe
+D:\Kiên\GymApi\bin\Debug\net10.0\GymApi.deps.json
+D:\Kiên\GymApi\bin\Debug\net10.0\GymApi.runtimeconfig.json
+D:\Kiên\GymApi\bin\Debug\net10.0\GymApi.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\GymApi.pdb
+D:\Kiên\GymApi\bin\Debug\net10.0\BCrypt-Net-Next.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Humanizer.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\MySqlConnector.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\System.CodeDom.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\GymApi\obj\Debug\net10.0\GymApi.csproj.AssemblyReference.cache
+D:\Kiên\GymApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Kiên\GymApi\obj\Debug\net10.0\GymApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kiên\GymApi\obj\Debug\net10.0\GymApi.AssemblyInfoInputs.cache
+D:\Kiên\GymApi\obj\Debug\net10.0\GymApi.AssemblyInfo.cs
+D:\Kiên\GymApi\obj\Debug\net10.0\GymApi.csproj.CoreCompileInputs.cache
+D:\Kiên\GymApi\obj\Debug\net10.0\GymApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Kiên\GymApi\obj\Debug\net10.0\GymApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Kiên\GymApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Kiên\GymApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Kiên\GymApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Kiên\GymApi\obj\Debug\net10.0\scopedcss\bundle\GymApi.styles.css
+D:\Kiên\GymApi\obj\Debug\net10.0\staticwebassets.build.json
+D:\Kiên\GymApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Kiên\GymApi\obj\Debug\net10.0\staticwebassets.development.json
+D:\Kiên\GymApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Kiên\GymApi\obj\Debug\net10.0\swae.build.ex.cache
+D:\Kiên\GymApi\obj\Debug\net10.0\GymApi.csproj.Up2Date
+D:\Kiên\GymApi\obj\Debug\net10.0\GymApi.dll
+D:\Kiên\GymApi\obj\Debug\net10.0\refint\GymApi.dll
+D:\Kiên\GymApi\obj\Debug\net10.0\GymApi.pdb
+D:\Kiên\GymApi\obj\Debug\net10.0\GymApi.genruntimeconfig.cache
+D:\Kiên\GymApi\obj\Debug\net10.0\ref\GymApi.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Scalar.AspNetCore.dll
+D:\Kiên\GymApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\appsettings.Development.json
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\appsettings.json
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\GymApi.staticwebassets.endpoints.json
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\GymApi.exe
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\GymApi.deps.json
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\GymApi.runtimeconfig.json
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\GymApi.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\GymApi.pdb
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\BCrypt-Net-Next.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Humanizer.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\MySqlConnector.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Scalar.AspNetCore.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\System.CodeDom.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\GymApi.csproj.AssemblyReference.cache
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\GymApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\GymApi.AssemblyInfoInputs.cache
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\GymApi.AssemblyInfo.cs
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\GymApi.csproj.CoreCompileInputs.cache
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\GymApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\GymApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\scopedcss\bundle\GymApi.styles.css
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\staticwebassets.build.json
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\staticwebassets.development.json
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\swae.build.ex.cache
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\GymApi.csproj.Up2Date
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\GymApi.dll
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\refint\GymApi.dll
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\GymApi.pdb
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\GymApi.genruntimeconfig.cache
+D:\Kiên\Quản lý phòng gym\gym-api\obj\Debug\net10.0\ref\GymApi.dll
